@@ -17,7 +17,7 @@ export const createWalletConnectModal = () => {
     const metadata = {
         name: 'TMA Proof of Concept',
         description: 'Telegram Mini App Wallet Proof of Concept',
-        url: 'https://softstack.github.io/telegram-mini-app/', // origin must match your domain & subdomain
+        url: 'https://kingaimaster94.github.io/telegram-mini-app-blockchain/docs/', // origin must match your domain & subdomain
         icons: [''],
     };
 
